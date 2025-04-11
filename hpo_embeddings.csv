@@ -1,0 +1,3 @@
+id,name,definition,synonyms,is_obsolete,replaced_by,category
+HP:0000123,Fatigue,A state of physical or mental weariness resulting from exertion.,"Tiredness,Exhaustion,Lassitude",False,,General symptoms
+HP:0001250,Seizure,A transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.,"Convulsion,Fits",False,,Neurological symptoms
